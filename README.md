@@ -4,10 +4,11 @@ In this github, you will find how to create a RPL network with node of the Iot-L
 The aplication will create automatically the network, you will just have to choose the root node.
 You have in the application 3 modes of rooting. 
 
-## Mode 1
+## Modes
+### Mode 1
 This mode creates a  RPL network and assigns each node a rank depending of how far the node is to the base. All paths communication are choosen only with the rank parameter. To lunch an experiment with this mode, put 0 in the second parameter of the fonction "go".
 
-## Modes 2 and 3
+### Modes 2 and 3
 This two modes create also a RPL network like the mode 1 but both are using the battery parameter to assign communication paths. The difference between the two modes is that the mode 2 use the rank to choose paths and actualyize all of the paths with battery parameter eatch minutes when the mode 3 initialyses the network with ranks and after uses only the battery to define paths.
 To lunch an experiment with the mode 2, put 1 in the second parameter of the fonction "go". Put 2 if you want to test the mode 3.
 
