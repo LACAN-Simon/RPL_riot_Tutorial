@@ -17,7 +17,7 @@ To launch an experiment with the firmware sensors.elf and analyse your results w
 
 You will maybe have some problems with the values of the luminosity. Some nodes have issues with this sensor. Just take other nodes.
 
-The application was created with the OS riot. In the directory "sources", you can find the main.c of the application and also all of the RIOT files which have been modified.
+The application was created with the OS RIOT. In the directory "sources", you can find the main.c of the application and also all of the RIOT files which have been modified.
 
 If you encounter a problem or have any questions, you can contact me by email at simon.lacan@gmail.com 
 
