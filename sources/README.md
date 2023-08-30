@@ -15,4 +15,3 @@ Do not forget to replace all of the modified Riot files and work with Riot set u
 - sys/net/gnrc/routing/rpl/gnrc_rpl_control_messages.c
 
 If you have some issues with this part, send an email to simon.lacan@gmail.com
-
